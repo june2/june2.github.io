@@ -1,0 +1,34 @@
+I"<h2 id="nodejs">Node.js</h2>
+<p>Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. Consequently, Node.js represents a “JavaScript everywhere” paradigm, unifying web-application development around a single programming language, rather than different languages for server- and client-side scripts.</p>
+
+<h2 id="traditional-web-application-processing-model">Traditional Web Application Processing Model</h2>
+<p>Any Web Application developed without Node JS, typically follows “Multi-Threaded Request-Response” model. Simply we can call this model as Request/Response Model.</p>
+
+<p>Client sends request to the server, then server do some processing based on clients request, prepare response and send it back to the client.</p>
+
+<p>This model uses HTTP protocol. As HTTP is a Stateless Protocol, this Request/Response model is also Stateless Model. So we can call this as Request/Response Stateless Model.</p>
+
+<p>However, this model uses Multiple Threads to handle concurrent client requests. Before discussing this model internals, first go through the diagram below.</p>
+
+<p><img src="https://user-images.githubusercontent.com/5827617/80474890-040e7980-8983-11ea-8aba-6803dd746b79.png" alt="image" /></p>
+
+<h2 id="single-threaded-event-loop">Single Threaded Event Loop</h2>
+<p>Node JS Platform does not follow Request/Response Multi-Threaded Stateless Model. It follows Single Threaded with Event Loop Model. Node JS Processing model mainly based on Javascript Event based model with Javascript callback mechanism.</p>
+
+<p>You should have some good knowledge about how Javascript events and callback mechanism works. If you don’t know, Please go through those posts or tutorials first and get some idea before moving to the next step in this post.</p>
+
+<p>As Node JS follows this architecture, it can handle more and more concurrent client requests very easily. Before discussing this model internals, first go through the diagram below.</p>
+
+<p>I tried to design this diagram to explain each and every point of Node JS Internals.</p>
+
+<p>The main heart of Node JS Processing model is “Event Loop”. If we understand this, then it is very easy to understand the Node JS Internals.</p>
+
+<p><img src="https://user-images.githubusercontent.com/5827617/80474912-0ec90e80-8983-11ea-9baf-090d2bf7a36c.png" alt="image" /></p>
+
+<h2 id="node-js-advantages">Node JS Advantages</h2>
+<ul>
+  <li>Handling more and more concurrent client’s request is very easy.</li>
+  <li>Even though our Node JS Application receives more and more Concurrent client requests, there is no need of creating more and more threads, because of Event loop.</li>
+  <li>Node JS application uses less Threads so that it can utilize only less resources or memory</li>
+</ul>
+:ET
