@@ -18,10 +18,10 @@ const PRECACHE_LIST = [
   "./js/jquery.min.js",
   "./js/bootstrap.min.js",
   "./js/hux-blog.min.js",
-  "./js/snackbar.js",
-  "./img/icon_wechat.png",
+  "./js/snackbar.js",  
   "./img/avatar-hux.jpg",
   "./img/home-bg.jpg",
+  "./img/home-bg-o.jpg",
   "./img/404-bg.jpg",
   "./css/hux-blog.min.css",
   "./css/bootstrap.min.css"
