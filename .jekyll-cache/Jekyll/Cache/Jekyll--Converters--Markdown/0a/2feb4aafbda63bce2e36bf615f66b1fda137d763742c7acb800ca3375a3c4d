@@ -1,0 +1,43 @@
+I"ø<h2 id="what-is-expo">What is Expo?</h2>
+<ul>
+  <li>Expo is a framework and a platform for universal React applications. It is a set of tools and services built around React Native and native platforms that help you develop, build, deploy, and quickly iterate on iOS, Android, and web apps from the same JavaScript/TypeScript codebase.
+<a href="https://docs.expo.io/versions/v35.0.0/get-started/installation/">Documentation</a></li>
+</ul>
+
+<h2 id="pros-and-cons">Pros and Cons</h2>
+<ul>
+  <li>Pros
+    <ul>
+      <li>Easy to use</li>
+      <li>Immediate results</li>
+      <li>Everything is covered by Expo</li>
+      <li>Nice documentation from Getting started to all API Docs</li>
+      <li>Live reload while in development</li>
+      <li>Library linking (react-native link) not necessary</li>
+      <li>Test directly on device both for iOS and Android (through the Expo container app)</li>
+      <li>Develop from Windows/MacOS or whatever (you only need nodejs and an internet connection)</li>
+    </ul>
+  </li>
+  <li>Pros
+    <ul>
+      <li>Build is done by Expo, in their cloud</li>
+      <li>Native modules not supported</li>
+      <li>Expo apps donâ€™t support background code execution (source docs.expo.io)</li>
+      <li>Javascript source is hosted in their cloud</li>
+      <li>The app is going to be at least arond 30MB on iOS and at least around 20MB on Android because Expo is including all libraries in the App for now</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="how-to-use-native-modules-in-expo">How to use native modules in Expo</h2>
+<ul>
+  <li>Expo dose not support native moudles. To use them such as In App Purchase, you need to eject react-native source from Expo.
+<a href="https://docs.expo.io/versions/latest/expokit/eject/">Documentation</a></li>
+</ul>
+
+<h2 id="useful-react-native-modules">Useful react-native modules</h2>
+<ul>
+  <li><a href="https://github.com/dooboolab/react-native-iap">react-native-iap</a></li>
+  <li><a href="https://github.com/invertase/react-native-firebase">react-native-firebase</a></li>
+</ul>
+:ET
