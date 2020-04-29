@@ -7,7 +7,7 @@ author:     "june"
 # header-img: "img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
 catalog:    true
-categories: NODE.JS
+categories: ARCHITECTURE
 tags:
   - node.js
 ---
