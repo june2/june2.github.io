@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog:    true
 categories: ARCHITECTURE
 tags:
-  - node.js
+  - architecture
 ---
 
 ## GaphQL VS REST
