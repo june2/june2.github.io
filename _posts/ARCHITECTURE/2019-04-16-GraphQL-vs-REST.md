@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "GaphQL VS REST"
-subtitle:   ""
+subtitle:   "server-side web API"
 date:       2020-04-16 00:00:00
 author:     "june"
 # header-img: "img/post-bg-re-vs-ng2.jpg"
