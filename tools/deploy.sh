@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo $(dirname)
+echo "$(dirname)"
 bash build.sh
 git add -A
 git commit -m 'update'
