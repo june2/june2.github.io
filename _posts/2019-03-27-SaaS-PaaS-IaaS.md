@@ -1,15 +1,9 @@
 ---
-layout:     post
-title:      "SaaS PaaS IaaS"
-subtitle:   "SaaS, PaaS and IaaS explained"
-date:       2020-04-16 00:00:00
-author:     "june"
-# header-img: "img/post-bg-re-vs-ng2.jpg"
-header-mask: 0.3
-catalog:    true
-categories: IT
-tags:
-  - IT
+title: SaaS, PaaS and IaaS explained
+author: june
+date: 2019-03-27 00:00:00
+categories: [IT, vocab]
+tags: [IT]
 ---
 
 # SaaS, PaaS and IaaS explained

@@ -1,15 +1,9 @@
 ---
-layout:     post
-title:      "GaphQL VS REST"
-subtitle:   "server-side web API"
-date:       2020-04-16 00:00:00
-author:     "june"
-# header-img: "img/post-bg-re-vs-ng2.jpg"
-header-mask: 0.3
-catalog:    true
-categories: ARCHITECTURE
-tags:
-  - architecture
+title: GaphQL VS REST
+author: june
+date: 2020-04-16 00:00:00
+categories: [DEV, architecture]
+tags: [architecture]
 ---
 
 ## GaphQL VS REST

@@ -1,15 +1,9 @@
 ---
-layout:     post
-title:      "DataLoader"
-subtitle:   "Facebook DataLoader"
-date:       2020-05-12 00:00:00
-author:     "june"
-# header-img: "img/post-bg-re-vs-ng2.jpg"
-header-mask: 0.3
-catalog:    true
-categories: IT
-tags:
-  - IT
+title: Facebook DataLoader
+author: june
+date: 2020-05-12 00:00:00
+categories: [DEV, library]
+tags: [library]
 ---
 
 # What is dataloader

@@ -1,15 +1,9 @@
 ---
-layout:     post
-title:      "How dose JavaScript work?"
-subtitle:   "What is the event loop?"
-date:       2020-05-11 00:00:00
-author:     "june"
-# header-img: "img/post-bg-re-vs-ng2.jpg"
-header-mask: 0.3
-catalog:    true
-categories: JAVASCRIPT
-tags:
-  - js
+title: How dose JavaScript work?
+author: june
+date: 2020-05-11 00:00:00
+categories: [DEV, javascript]
+tags: [js]
 ---
 
 

@@ -1,15 +1,9 @@
 ---
-layout:     post
-title:      "NODE.JS framework"
-subtitle:   "koa vs express"
-date:       2019-01-14 00:00:00
-author:     "june"
-# header-img: "img/post-bg-re-vs-ng2.jpg"
-header-mask: 0.3
-catalog:    true
-categories: NODE.JS
-tags:
-  - node.js
+title: koa vs express
+author: june
+date: 2019-01-14 00:00:00
+categories: [DEV, node.js]
+tags: [node.js]
 ---
 
 

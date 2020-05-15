@@ -1,16 +1,9 @@
 ---
-layout:     post
-title:      "Expokit-android"
-subtitle:   "expokit android"
-date:       2019-11-08 00:00:00
-author:     "june"
-# header-img: "img/post-bg-re-vs-ng2.jpg"
-header-mask: 0.3
-catalog:    true
-categories: REACT-NATIVE
-tags:
-  - react-native
-  - expo
+title: Expokit-ios
+author: june
+date: 2019-11-08 00:00:00
+categories: [DEV, recat-native]
+tags: [react-native, expo]
 ---
 
 ## How to Debug
