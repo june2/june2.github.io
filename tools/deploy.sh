@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo `${WORK_DIR}`
+echo $(dirname)
 bash build.sh
 git add -A
 git commit -m 'update'
