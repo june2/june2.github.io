@@ -1,7 +1,0 @@
-I"�<h2 id="middleware">Middleware</h2>
-<ul>
-  <li>NodeJS middleware are routines that have access to the Request object (req) and Response object (res).</li>
-  <li>These routines are called before route handlers, so they live in the “middle” between the client the response-generating route logic.</li>
-  <li>A NodeJS application can “chain” middleware routines into a custom request/response pipeline. - The pipeline can act on the request and response, including the headers and body.</li>
-</ul>
-:ET
