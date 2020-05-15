@@ -2,8 +2,8 @@
 title: Text and Typography
 author: Cotes Chung
 date: 2018-08-08 11:33:00
-categories: [Dev, typography]
-tags: [typography]
+categories: [TEST, typography]
+tags: []
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
