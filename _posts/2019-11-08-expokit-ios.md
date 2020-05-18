@@ -3,7 +3,7 @@ title: Expokit-ios
 author: june
 date: 2019-11-08 00:00:00
 categories: [DEV, recat-native]
-tags: [react-native, expo]
+tags: [react-native]
 ---
 
 ## How to Debug

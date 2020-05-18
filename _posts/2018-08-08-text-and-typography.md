@@ -3,7 +3,7 @@ title: Text and Typography
 author: Cotes Chung
 date: 2018-08-08 11:33:00
 categories: [TEST, typography]
-tags: []
+tags: [test]
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
